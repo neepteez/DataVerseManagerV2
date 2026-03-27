@@ -23,3 +23,11 @@ Programmet låter dig **skapa, visa och ta bort träningspass**, och all data sp
 1. Klona repot:
    ```bash
    git clone <repo-url>
+2. Öppna lösningen i Visual Studio
+3. Bygg projektet
+4. Kör Program.cs
+5. Navigera i menyn med piltangenterna:
+6. Skapa pass → lägg till nytt träningspass
+7. Visa pass → se alla pass
+8. Ta bort pass → ta bort valt pass
+9. Avsluta → stäng programmet och spara
