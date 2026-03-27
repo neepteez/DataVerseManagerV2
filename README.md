@@ -1,6 +1,4 @@
-# DataVerseManagerV2
 # DataVerse Fitness Progress Tracker
-
 ## Beskrivning
 DataVerse är ett interaktivt terminalprogram byggt med C# och Spectre.Console.  
 Programmet låter dig **skapa, visa och ta bort träningspass**, och all data sparas i JSON så att passen finns kvar mellan körningar.
@@ -22,7 +20,7 @@ Programmet låter dig **skapa, visa och ta bort träningspass**, och all data sp
 ## Körinstruktioner
 1. Klona repot:
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/neepteez/DataVerseManagerV2.git>
 2. Öppna lösningen i Visual Studio
 3. Bygg projektet
 4. Kör Program.cs
