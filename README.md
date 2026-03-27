@@ -20,7 +20,7 @@ Programmet låter dig **skapa, visa och ta bort träningspass**, och all data sp
 ## Körinstruktioner
 1. Klona repot:
    ```bash
-   <https://github.com/neepteez/DataVerseManagerV2.git>
+   https://github.com/neepteez/DataVerseManagerV2.git
 2. Öppna lösningen i Visual Studio
 3. Bygg projektet
 4. Kör Program.cs
